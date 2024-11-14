@@ -1,27 +1,27 @@
+# Watch Shop
+
 Click here to  see Live project :   https://developer256.pythonanywhere.com/
 
 
-# Watch Shop project:
 
 ## Overview
-This is a watch shop web application developed with Python, Django, and hosted on PythonAnywhere. It allows users to browse, filter, and view a curated selection of luxury watches.
+A luxury watch shop web application developed using **Python** and **Django**. The platform allows users to browse a curated selection of watches and filter them by brand and price. Admin users can manage the catalog through CRUD operations. The website is designed with a modern, responsive interface using **Bootstrap**.
 
 ## Features
-Brand and Price Filtering: Users can filter watches by brand and price range.
-CRUD Operations: Admin can add, edit, view, and delete watch entries.
-Detailed Watch Descriptions: Each watch has a detailed view with model, description, and price.
+- **Brand and Price Filtering**: Allows users to filter watches based on brand and price range.
+- **CRUD Operations**: Admins can add, edit, view, and delete watches.
+- **Responsive Design**: Built with **Bootstrap** for a mobile-friendly experience.
+- **Detailed Watch Descriptions**: View detailed information about each watch, including model, description, and price.
 
 ## Technologies
-Backend: Python, Django
-Hosting: PythonAnywhere
+- **Backend**: Python, Django
+- **Frontend**: HTML, CSS, JavaScript, **Bootstrap**
+- **Hosting**: PythonAnywhere
 
 ## Getting Started
-## Clone the repository:
-bash
-Copy code
-git clone https://github.com/Adeshdsouza94494/watch-shop.git
-Install dependencies and run the server.
 
-view my project: 
-https://developer256.pythonanywhere.com/
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Adeshdsouza94494/WatchShop.git
+
 
